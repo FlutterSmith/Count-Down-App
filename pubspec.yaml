@@ -1,0 +1,21 @@
+name: countdown_app
+description: A Flutter app for countdown events.
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_local_notifications: ^18.0.1
+  home_widget: ^0.1.4
+  image_picker: ^0.8.6+1
+  path_provider: ^2.0.11
+  provider: ^6.0.0
+  sqflite: ^2.4.1
+  sqflite_common_ffi: ^2.3.4+4
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
