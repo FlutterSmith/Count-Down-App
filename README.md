@@ -17,7 +17,7 @@
 ✅ **Push Notifications for Event Reminders**  
 ✅ **Customizable Event Appearance**
 
-![Countdown App Demo](https://media.giphy.com/media/your-demo-url-here/giphy.gif)
+![Countdown App Demo](https://media.giphy.com/media/abk1YrVJlxcuA/giphy.gif?cid=ecf05e473iaz0hacpmhgio52qoynn2p0i0mvaoyc1wx1dis9&ep=v1_gifs_search&rid=giphy.gif&ct=g)
 
 ---
 
