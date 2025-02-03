@@ -1,9 +1,9 @@
 # ⏳ Countdown App
 
 📌 **Version:** 1.0.0  
-📅 **Last Updated:** [Month, Year]  
-👤 **Author:** [Your Name]  
-🔗 **Repository:** [GitHub Link]
+📅 **Last Updated:** 2, 2025
+👤 **Author:** Ahmed Hamdy 
+🔗 **Repository:** https://github.com/FlutterSmith/Count-Down-App/
 
 ---
 
